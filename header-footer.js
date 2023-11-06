@@ -93,7 +93,7 @@ class MyHeader extends HTMLElement {
                     <p>akram.jaffri81@gmail.com</p>
 
                     <h5>Office Address</h5>
-                    <p>Flat No 1002, Golden Tower CHS LTD, Vidyanagari, Mani Pada Kalina Santacruz East, Mumbai, Mumbai Suburban, Maharashtra, 400098</p>
+                    <p>1002 ,10th floor golden tower kalina santacruz east mumbai - 400098</p>
                 </div>
                 <div class="social_sites">
                     <ul class="d-flex align-items-center justify-content-center">
@@ -142,7 +142,7 @@ class MyFooter extends HTMLElement{
                                 </div>
                                 <div class="info_body">
                                     <h6>Office Address</h6>
-                                    <h5>Flat No 1002, Golden Tower CHS LTD, Vidyanagari, Mani Pada Kalina Santacruz East, Mumbai, Mumbai Suburban, Maharashtra, 400098</h5>
+                                    <h5>1002 ,10th floor golden tower kalina santacruz east mumbai - 400098</h5>
                                 </div>
                             </div>
                         </div>
